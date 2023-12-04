@@ -51,8 +51,8 @@ REPLACE INTO `mob_droplist` VALUES (2907,1,1,200,15111,91); -- BRD Hands
 REPLACE INTO `mob_droplist` VALUES (2907,1,1,200,15113,91); -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2907,1,1,200,15130,91); -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (2907,1,1,200,15116,91); -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2907,1,2,50,16346,500); -- BLU Legs (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2907,1,2,50,11385,500); -- COR Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2907,1,2,50,16346,500); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2907,1,2,50,11385,500); -- COR Feet
 -- REPLACE INTO `mob_droplist` VALUES (2907,1,3,50,16362,500); -- SCH Legs (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2907,1,3,50,11478,500); -- DNC Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2907,0,0,1000,1469,10); -- Wootz Ore
@@ -76,8 +76,8 @@ REPLACE INTO `mob_droplist` VALUES (2558,1,1,200,15111,91); -- BRD Hands
 REPLACE INTO `mob_droplist` VALUES (2558,1,1,200,15113,91); -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2558,1,1,200,15130,91); -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (2558,1,1,200,15116,91); -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2558,1,2,50,16346,500); -- BLU Legs (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2558,1,2,50,11385,500); -- COR Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2558,1,2,50,16346,500); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2558,1,2,50,11385,500); -- COR Feet
 -- REPLACE INTO `mob_droplist` VALUES (2558,1,4,50,16362,500); -- SCH Legs (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2558,1,4,50,11478,500); -- DNC Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2558,0,0,1000,1469,10); -- Wootz Ore
@@ -130,9 +130,9 @@ REPLACE INTO `mob_droplist` VALUES (3111,1,1,200,15127,91); -- RNG Legs
 REPLACE INTO `mob_droplist` VALUES (3111,1,1,200,15129,91); -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (3111,1,1,200,15145,91); -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (3111,1,1,200,15146,91); -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (3111,1,2,50,15025,500); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3111,1,2,50,16349,500); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3111,1,3,50,11388,500); -- PUP Feet  (Comment in for WoTG)
+REPLACE INTO `mob_droplist` VALUES (3111,1,2,50,15025,500); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (3111,1,2,50,16349,500); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (3111,1,3,50,11388,500); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (3111,1,3,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (3111,0,0,1000,1519,10); -- Fresh Orc Liver
 REPLACE INTO `mob_droplist` VALUES (3111,0,0,1000,1517,10); -- Giant Frozen Head
@@ -156,9 +156,9 @@ REPLACE INTO `mob_droplist` VALUES (2548,1,1,200,15127,91); -- RNG Legs
 REPLACE INTO `mob_droplist` VALUES (2548,1,1,200,15129,91); -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (2548,1,1,200,15145,91); -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2548,1,1,200,15146,91); -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (2548,1,2,50,15025,500); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2548,1,2,50,16349,500); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2548,1,4,50,11388,500); -- PUP Feet  (Comment in for WoTG)
+REPLACE INTO `mob_droplist` VALUES (2548,1,2,50,15025,500); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (2548,1,2,50,16349,500); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (2548,1,4,50,11388,500); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2548,1,4,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2548,0,0,1000,1519,10); -- Fresh Orc Liver
 REPLACE INTO `mob_droplist` VALUES (2548,0,0,1000,1517,10); -- Giant Frozen Head
@@ -211,8 +211,8 @@ REPLACE INTO `mob_droplist` VALUES (1560,1,1,200,15112,91); -- RNG Hands
 REPLACE INTO `mob_droplist` VALUES (1560,1,1,200,15128,91); -- Sam Legs
 REPLACE INTO `mob_droplist` VALUES (1560,1,1,200,15084,91); -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (1560,1,1,200,15131,91); -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (1560,1,2,50,11382,500); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1560,1,2,50,15031,500); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1560,1,2,50,11382,500); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (1560,1,2,50,15031,500); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (1560,1,3,50,11398,500); -- SCH Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1560,1,3,50,15038,500); -- DNC Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1560,0,0,1000,1518,10); -- colossal skull
@@ -237,8 +237,8 @@ REPLACE INTO `mob_droplist` VALUES (2553,1,1,200,15112,91); -- RNG Hands
 REPLACE INTO `mob_droplist` VALUES (2553,1,1,200,15128,91); -- Sam Legs
 REPLACE INTO `mob_droplist` VALUES (2553,1,1,200,15084,91); -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (2553,1,1,200,15131,91); -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (2553,1,2,50,11382,500); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2553,1,2,50,15031,500); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2553,1,2,50,11382,500); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (2553,1,2,50,15031,500); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (2553,1,4,50,11398,500); -- SCH Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2553,1,4,50,15038,500); -- DNC Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2553,0,0,1000,1518,10); -- Colossal Skull
@@ -300,8 +300,8 @@ REPLACE INTO `mob_droplist` VALUES (143,1,1,200,15082,91); -- RNG Head
 REPLACE INTO `mob_droplist` VALUES (143,1,1,200,15143,91); -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (143,1,1,200,15144,91); -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (143,1,1,200,15115,91); -- DRG Hands
--- REPLACE INTO `mob_droplist` VALUES (143,1,2,50,15028,500); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (143,1,2,50,16352,500); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (143,1,2,50,15028,500); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (143,1,2,50,16352,500); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (143,1,4,10,16352,1000); -- DNC Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (143,0,0,1000,1520,10); -- Goblin Grease
 REPLACE INTO `mob_droplist` VALUES (143,0,0,1000,1470,50); -- Sparkling Stone
@@ -329,8 +329,8 @@ REPLACE INTO `mob_droplist` VALUES (2543,1,1,200,15082,91); -- RNG Head
 REPLACE INTO `mob_droplist` VALUES (2543,1,1,200,15143,91); -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (2543,1,1,200,15144,91); -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2543,1,1,200,15115,91); -- DRG Hands
--- REPLACE INTO `mob_droplist` VALUES (2543,1,2,10,15028,500); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2543,1,2,10,16352,500); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2543,1,2,10,15028,500); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2543,1,2,10,16352,500); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (2543,1,4,5,16352,1000); -- DNC Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2543,0,0,1000,1520,@VRARE); -- Goblin Grease
 REPLACE INTO `mob_droplist` VALUES (2543,0,0,1000,1470,@RARE); -- Sparkling Stone
@@ -404,9 +404,9 @@ REPLACE INTO `mob_droplist` VALUES (176,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (176,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (176,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (176,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (176,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (176,1,4,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (176,1,4,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (176,0,0,1000,1455,150); -- Byne Bill
@@ -437,9 +437,9 @@ REPLACE INTO `mob_droplist` VALUES (493,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (493,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (493,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (493,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (493,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (493,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (493,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (493,0,0,1000,1452,150); -- Bronzepiece
@@ -462,9 +462,9 @@ REPLACE INTO `mob_droplist` VALUES (261,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (261,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (261,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (261,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (261,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (261,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (261,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (261,0,0,1000,1455,150); -- Byne Bill
@@ -487,9 +487,9 @@ REPLACE INTO `mob_droplist` VALUES (265,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (265,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (265,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (265,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (265,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (265,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (265,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (265,0,0,1000,1449,150); -- Whiteshell
@@ -549,9 +549,9 @@ REPLACE INTO `mob_droplist` VALUES (2542,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (2542,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (2542,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (2542,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (2542,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (2542,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2542,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2542,0,0,1000,1520,10); -- Goblin Grease
@@ -584,9 +584,9 @@ REPLACE INTO `mob_droplist` VALUES (2547,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (2547,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (2547,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (2547,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (2547,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (2547,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2547,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2547,0,0,1000,1519,10); -- Fresh Orc Liver
@@ -613,9 +613,9 @@ REPLACE INTO `mob_droplist` VALUES (2557,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (2557,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (2557,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (2557,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (2557,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (2557,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2557,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2557,0,0,1000,1469,10); -- Wootz Ore
@@ -641,9 +641,9 @@ REPLACE INTO `mob_droplist` VALUES (2552,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (2552,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (2552,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (2552,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (2552,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (2552,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2552,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2552,0,0,1000,1518,10); -- Colossal Skull
@@ -670,9 +670,9 @@ REPLACE INTO `mob_droplist` VALUES (3220,1,1,200,15098,67); -- SAM Body
 REPLACE INTO `mob_droplist` VALUES (3220,1,1,200,15099,67); -- NIN Body
 REPLACE INTO `mob_droplist` VALUES (3220,1,1,200,15100,67); -- DRG Body
 REPLACE INTO `mob_droplist` VALUES (3220,1,1,200,15101,67); -- SMN Body
--- REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11295,333); -- COR Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11292,333); -- BLU Body (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11298,334); -- PUP Body (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11295,333); -- COR Body
+REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11292,333); -- BLU Body
+REPLACE INTO `mob_droplist` VALUES (3220,1,2,50,11298,334); -- PUP Body
 -- REPLACE INTO `mob_droplist` VALUES (3220,1,3,50,11307,500); -- SCH Body (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (3220,1,3,50,16360,500); -- DNC Legs (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (3220,0,0,1000,1520,10); -- Goblin Grease
@@ -849,9 +849,9 @@ REPLACE INTO `mob_droplist` VALUES (1442,1,1,200,15083,67); -- SAM Head
 REPLACE INTO `mob_droplist` VALUES (1442,1,1,200,15114,67); -- NIN Hands
 REPLACE INTO `mob_droplist` VALUES (1442,1,1,200,15085,67); -- DRG Head
 REPLACE INTO `mob_droplist` VALUES (1442,1,1,200,15086,67); -- SMN Head
--- REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11468,333); -- COR Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11465,333); -- BLU Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11471,334); -- PUP Head (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11468,333); -- COR Head
+REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11465,333); -- BLU Head
+REPLACE INTO `mob_droplist` VALUES (1442,1,2,50,11471,334); -- PUP Head
 -- REPLACE INTO `mob_droplist` VALUES (1442,1,3,50,11480,500); -- SCH Head (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1442,1,3,50,11305,500); -- DNC Body (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1442,0,0,1000,1455,150); -- Byne Bill
@@ -903,9 +903,9 @@ REPLACE INTO `mob_droplist` VALUES (2910,1,1,200,2088,67);  -- SAM -1 Head
 REPLACE INTO `mob_droplist` VALUES (2910,1,1,200,2093,67);  -- NIN -1 Head
 REPLACE INTO `mob_droplist` VALUES (2910,1,1,200,2098,67);  -- DRG -1 Head
 REPLACE INTO `mob_droplist` VALUES (2910,1,1,200,2103,67);  -- SMN -1 Head
--- REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2662,333); -- BLU -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2667,333); -- COR -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2672,334); -- PUP -1 Head (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2662,333); -- BLU -1 Head
+REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2667,333); -- COR -1 Head
+REPLACE INTO `mob_droplist` VALUES (2910,1,2,100,2672,334); -- PUP -1 Head
 -- REPLACE INTO `mob_droplist` VALUES (2910,1,4,100,2718,500); -- DNC -1 Head (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2910,1,4,100,2723,500); -- SCH -1 Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2910,0,0,1000,1455,150); -- Byne Bill
@@ -931,9 +931,9 @@ REPLACE INTO `mob_droplist` VALUES (2539,1,1,200,15143,67);  -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (2539,1,1,200,15129,67);  -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (2539,1,1,200,15130,67);  -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (2539,1,1,200,15131,67);  -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,11382,333); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,16349,333); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,16352,334); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,11382,333); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,16349,333); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (2539,1,2,50,16352,334); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (2539,1,3,50,15038,500); -- DNC Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2539,1,3,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2539,0,0,1000,1455,150); -- Byne Bill
@@ -956,9 +956,9 @@ REPLACE INTO `mob_droplist` VALUES (2544,1,1,200,15143,67);  -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (2544,1,1,200,15129,67);  -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (2544,1,1,200,15130,67);  -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (2544,1,1,200,15131,67);  -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,11382,333); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,16349,333); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,16352,334); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,11382,333); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,16349,333); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (2544,1,2,50,16352,334); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (2544,1,3,50,15038,500); -- DNC Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2544,1,3,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2544,0,0,1000,1452,150); -- Bronzepiece
@@ -980,9 +980,9 @@ REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,15143,67);  -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,15129,67);  -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,15130,67);  -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,15131,67);  -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,11382,333); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,16349,333); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,16352,334); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,11382,333); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,16349,333); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,50,16352,334); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (3131,1,3,50,15038,500); -- DNC Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (3131,1,3,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (3131,0,0,1000,1455,150); -- Byne Bill
@@ -1004,9 +1004,9 @@ REPLACE INTO `mob_droplist` VALUES (2549,1,1,200,15143,67);  -- SAM Feet
 REPLACE INTO `mob_droplist` VALUES (2549,1,1,200,15129,67);  -- NIN Legs
 REPLACE INTO `mob_droplist` VALUES (2549,1,1,200,15130,67);  -- DRG Legs
 REPLACE INTO `mob_droplist` VALUES (2549,1,1,200,15131,67);  -- SMN Legs
--- REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,11382,333); -- BLU Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,16349,333); -- COR Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,16352,334); -- PUP Legs  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,11382,333); -- BLU Feet
+REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,16349,333); -- COR Legs
+REPLACE INTO `mob_droplist` VALUES (2549,1,2,50,16352,334); -- PUP Legs
 -- REPLACE INTO `mob_droplist` VALUES (2549,1,3,50,15038,500); -- DNC Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2549,1,3,50,15040,500); -- SCH Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2549,0,0,1000,1449,150); -- Whiteshell
@@ -1029,9 +1029,9 @@ REPLACE INTO `mob_droplist` VALUES (1792,1,1,200,2088,67);  -- SAM -1 Head
 REPLACE INTO `mob_droplist` VALUES (1792,1,1,200,2093,67);  -- NIN -1 Head
 REPLACE INTO `mob_droplist` VALUES (1792,1,1,200,2098,67);  -- DRG -1 Head
 REPLACE INTO `mob_droplist` VALUES (1792,1,1,200,2103,67);  -- SMN -1 Head
--- REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2662,333); -- BLU -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2667,333); -- COR -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2672,334); -- PUP -1 Head (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2662,333); -- BLU -1 Head
+REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2667,333); -- COR -1 Head
+REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,2672,334); -- PUP -1 Head
 -- REPLACE INTO `mob_droplist` VALUES (1792,1,4,50,2718,500); -- DNC -1 Head (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1792,1,4,50,2723,500); -- SCH -1 Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,15481,200); -- PLD Back
@@ -1039,7 +1039,7 @@ REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,15877,200); -- NIN Waist
 REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,15482,200); -- BRD Back
 REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,15484,200); -- SMN Back
 REPLACE INTO `mob_droplist` VALUES (1792,1,2,50,15871,200); -- WAR Waist
--- REPLACE INTO `mob_droplist` VALUES (1792,1,5,10,15920,1000); -- COR Waist (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1792,1,5,10,15920,1000); -- COR Waist
 -- REPLACE INTO `mob_droplist` VALUES (1792,1,6,10,16248,1000); -- DNC Back  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1792,0,0,1000,1452,@COMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1792,0,0,1000,1452,@UNCOMMON); -- Bronzepiece
@@ -1060,9 +1060,9 @@ REPLACE INTO `mob_droplist` VALUES (1794,1,1,200,2088,67);  -- SAM -1 Head
 REPLACE INTO `mob_droplist` VALUES (1794,1,1,200,2093,67);  -- NIN -1 Head
 REPLACE INTO `mob_droplist` VALUES (1794,1,1,200,2098,67);  -- DRG -1 Head
 REPLACE INTO `mob_droplist` VALUES (1794,1,1,200,2103,67);  -- SMN -1 Head
--- REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2662,333); -- BLU -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2667,333); -- COR -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2672,334); -- PUP -1 Head (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2662,333); -- BLU -1 Head
+REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2667,333); -- COR -1 Head
+REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,2672,334); -- PUP -1 Head
 -- REPLACE INTO `mob_droplist` VALUES (1794,1,4,50,2718,500); -- DNC -1 Head (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1794,1,4,50,2723,500); -- SCH -1 Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,15480,125); -- THF Back
@@ -1071,7 +1071,7 @@ REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,15872,125); -- WHM Waist
 REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,15874,125); -- BLM Waist
 REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,15482,125); -- BRD Back
 REPLACE INTO `mob_droplist` VALUES (1794,1,2,50,15875,125); -- BST Waist
--- REPLACE INTO `mob_droplist` VALUES (1794,1,5,10,16244,1000); -- BLU Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1794,1,5,10,16244,1000); -- BLU Back
 -- REPLACE INTO `mob_droplist` VALUES (1794,1,6,10,16248,1000); -- DNC Back (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1794,0,0,1000,1455,@COMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1794,0,0,1000,1455,@UNCOMMON); -- Byne Bill
@@ -1092,9 +1092,9 @@ REPLACE INTO `mob_droplist` VALUES (1799,1,1,200,2088,67);  -- SAM -1 Head
 REPLACE INTO `mob_droplist` VALUES (1799,1,1,200,2093,67);  -- NIN -1 Head
 REPLACE INTO `mob_droplist` VALUES (1799,1,1,200,2098,67);  -- DRG -1 Head
 REPLACE INTO `mob_droplist` VALUES (1799,1,1,200,2103,67);  -- SMN -1 Head
--- REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2662,333); -- BLU -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2667,333); -- COR -1 Head (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2672,334); -- PUP -1 Head (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2662,333); -- BLU -1 Head
+REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2667,333); -- COR -1 Head
+REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,2672,334); -- PUP -1 Head
 -- REPLACE INTO `mob_droplist` VALUES (1799,1,4,50,2718,500); -- DNC -1 Head (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1799,1,4,50,2723,500); -- SCH -1 Head (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,15480,125); -- THF Back
@@ -1103,7 +1103,7 @@ REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,15872,125); -- WHM Waist
 REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,15874,125); -- BLM Waist
 REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,15482,125); -- BRD Back
 REPLACE INTO `mob_droplist` VALUES (1799,1,2,50,15875,125); -- BST Waist
--- REPLACE INTO `mob_droplist` VALUES (1799,1,5,10,16244,1000); -- BLU Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1799,1,5,10,16244,1000); -- BLU Back 
 -- REPLACE INTO `mob_droplist` VALUES (1799,1,6,10,16248,1000); -- DNC Back (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1799,0,0,1000,1449,@COMMON); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (1799,0,0,1000,1449,@UNCOMMON); -- Whiteshell
@@ -1152,9 +1152,9 @@ REPLACE INTO `mob_droplist` VALUES (230,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (230,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (230,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (230,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (230,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (230,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (230,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (230,0,0,1000,1455,150); -- Byne Bill
@@ -1179,9 +1179,9 @@ REPLACE INTO `mob_droplist` VALUES (2667,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2667,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2667,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2667,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2667,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2667,1,4,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2667,1,4,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2667,0,0,1000,1455,150); -- Byne Bill
@@ -1209,9 +1209,9 @@ REPLACE INTO `mob_droplist` VALUES (760,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (760,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (760,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (760,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (760,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (760,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (760,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (760,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (760,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (760,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (760,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (760,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (760,0,0,1000,1452,150); -- Bronzepiece
@@ -1233,9 +1233,9 @@ REPLACE INTO `mob_droplist` VALUES (2901,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2901,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2901,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2901,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2901,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2901,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2901,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2901,0,0,1000,1455,150); -- Byne Bill
@@ -1257,9 +1257,9 @@ REPLACE INTO `mob_droplist` VALUES (2085,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2085,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2085,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2085,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2085,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2085,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2085,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2085,0,0,1000,1449,150); -- Whiteshell
@@ -1282,9 +1282,9 @@ REPLACE INTO `mob_droplist` VALUES (2540,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2540,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2540,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2540,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2540,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2540,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2540,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2540,0,0,1000,1455,150); -- Byne Bill
@@ -1309,9 +1309,9 @@ REPLACE INTO `mob_droplist` VALUES (2545,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2545,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2545,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2545,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2545,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2545,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2545,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2545,0,0,1000,1452,150); -- Bronzepiece
@@ -1333,9 +1333,9 @@ REPLACE INTO `mob_droplist` VALUES (2555,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2555,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2555,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2555,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2555,1,2,100,11388,200); -- PUP Feet 
 -- REPLACE INTO `mob_droplist` VALUES (2555,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2555,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2555,0,0,1000,1455,150); -- Byne Bill
@@ -1357,9 +1357,9 @@ REPLACE INTO `mob_droplist` VALUES (2550,1,1,200,15128,67);  -- SAM Legs
 REPLACE INTO `mob_droplist` VALUES (2550,1,1,200,15144,67);  -- NIN Feet
 REPLACE INTO `mob_droplist` VALUES (2550,1,1,200,15145,67);  -- DRG Feet
 REPLACE INTO `mob_droplist` VALUES (2550,1,1,200,15116,67);  -- SMN Hands
--- REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,16346,200); -- BLU Legs  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,15028,200); -- COR Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,11388,200); -- PUP Feet  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,16346,200); -- BLU Legs
+REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,15028,200); -- COR Hands
+REPLACE INTO `mob_droplist` VALUES (2550,1,2,100,11388,200); -- PUP Feet
 -- REPLACE INTO `mob_droplist` VALUES (2550,1,3,100,11478,200); -- DNC Head  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2550,1,3,100,11398,200); -- SCH Feet  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2550,0,0,1000,1449,150); -- Whiteshell
@@ -1382,14 +1382,14 @@ REPLACE INTO `mob_droplist` VALUES (1789,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1789,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1789,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1789,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1789,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1789,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1789,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1789,1,3,50,15877,500); -- NIN Belt
 REPLACE INTO `mob_droplist` VALUES (1789,1,3,50,15482,500); -- BRD Back
--- REPLACE INTO `mob_droplist` VALUES (1789,1,5,10,16244,1000); -- BLU Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1789,1,5,10,16244,1000); -- BLU Back
 REPLACE INTO `mob_droplist` VALUES (1789,0,0,1000,1452,@COMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1789,0,0,1000,1452,@UNCOMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1789,2,0,1000,1452,0); -- Bronzepiece
@@ -1409,14 +1409,14 @@ REPLACE INTO `mob_droplist` VALUES (1805,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1805,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1805,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1805,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1805,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1805,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1805,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1805,1,2,50,15874,500); -- BLM Waist
 REPLACE INTO `mob_droplist` VALUES (1805,1,2,50,15878,500); -- DRG Waist
--- REPLACE INTO `mob_droplist` VALUES (1805,1,5,50,16245,1000); -- PUP Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1805,1,5,50,16245,1000); -- PUP Back
 REPLACE INTO `mob_droplist` VALUES (1805,0,0,1000,1455,150); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1805,0,0,1000,1449,150); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (1805,0,0,1000,1452,150); -- Bronzepiece
@@ -1438,9 +1438,9 @@ REPLACE INTO `mob_droplist` VALUES (1791,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1791,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1791,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1791,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1791,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1791,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1791,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1791,1,2,50,15874,333); -- BLM Waist
@@ -1464,9 +1464,9 @@ REPLACE INTO `mob_droplist` VALUES (1798,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1798,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1798,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1798,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1798,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1798,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1798,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1798,1,2,50,15479,500); -- DRK Back
@@ -1491,14 +1491,14 @@ REPLACE INTO `mob_droplist` VALUES (2796,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2796,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2796,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2796,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (2796,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (2796,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2796,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2796,1,2,50,15479,500); -- DRK Back
 REPLACE INTO `mob_droplist` VALUES (2796,1,2,50,15871,500); -- WAR Waist
--- REPLACE INTO `mob_droplist` VALUES (2796,1,5,10,16244,1000); -- BLU Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2796,1,5,10,16244,1000); -- BLU Back
 REPLACE INTO `mob_droplist` VALUES (2796,0,0,1000,1449,@COMMON); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (2796,0,0,1000,1449,@UNCOMMON); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (2796,2,0,1000,1449,0); -- Whiteshell
@@ -1518,9 +1518,9 @@ REPLACE INTO `mob_droplist` VALUES (2795,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2795,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2795,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (2795,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (2795,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (2795,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2795,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2795,1,2,50,15478,500); -- MNK Back
@@ -1544,14 +1544,14 @@ REPLACE INTO `mob_droplist` VALUES (1788,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1788,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1788,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1788,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1788,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1788,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1788,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1788,1,2,50,15873,500); -- RDM Waist
 REPLACE INTO `mob_droplist` VALUES (1788,1,2,50,15876,500); -- RNG Waist
--- REPLACE INTO `mob_droplist` VALUES (1788,1,5,10,16244,1000); -- BLU Back (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1788,1,5,10,16244,1000); -- BLU Back
 REPLACE INTO `mob_droplist` VALUES (1788,0,0,1000,1455,@COMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1788,0,0,1000,1455,@UNCOMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1788,2,0,1000,1455,0); -- Byne Bill
@@ -1571,9 +1571,9 @@ REPLACE INTO `mob_droplist` VALUES (1787,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1787,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1787,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1787,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1787,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1787,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1787,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1787,1,2,50,15873,500); -- RDM Waist
@@ -1597,14 +1597,14 @@ REPLACE INTO `mob_droplist` VALUES (1785,1,1,200,2090,67);  -- SAM -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1785,1,1,200,2095,67);  -- NIN -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1785,1,1,200,2100,67);  -- DRG -1 Hands
 REPLACE INTO `mob_droplist` VALUES (1785,1,1,200,2105,67);  -- SMN -1 Hands
--- REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2664,333); -- BLU -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2669,333); -- COR -1 Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2674,334); -- PUP -1 Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2664,333); -- BLU -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2669,333); -- COR -1 Hands
+REPLACE INTO `mob_droplist` VALUES (1785,1,2,100,2674,334); -- PUP -1 Hands
 -- REPLACE INTO `mob_droplist` VALUES (1785,1,4,100,2720,500); -- DNC -1 Hands (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1785,1,4,100,2725,500); -- SCH -1 Hands (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1785,1,2,50,15478,500); -- MNK Back
 REPLACE INTO `mob_droplist` VALUES (1785,1,2,50,15481,500); -- PLD Back
--- REPLACE INTO `mob_droplist` VALUES (1785,1,5,10,16245,1000); -- PUP Back
+REPLACE INTO `mob_droplist` VALUES (1785,1,5,10,16245,1000); -- PUP Back
 REPLACE INTO `mob_droplist` VALUES (1785,0,0,1000,1455,@COMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1785,0,0,1000,1455,@UNCOMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1785,2,0,1000,1455,0); -- Byne Bill (Steal)
@@ -1650,9 +1650,9 @@ REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,2092,67);  -- SAM -1 Feet
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,2097,67);  -- NIN -1 Feet
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,2102,67);  -- DRG -1 Feet
 REPLACE INTO `mob_droplist` VALUES (3131,1,1,200,2107,67);  -- SMN -1 Feet
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2666,333); -- BLU -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2671,333); -- COR -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2676,334); -- PUP -1 Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2666,333); -- BLU -1 Feet
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2671,333); -- COR -1 Feet
+REPLACE INTO `mob_droplist` VALUES (3131,1,2,100,2676,334); -- PUP -1 Feet
 -- REPLACE INTO `mob_droplist` VALUES (3131,1,4,100,2722,500); -- DNC -1 Feet (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (3131,1,4,100,2727,500); -- SCH -1 Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (3131,0,0,1000,1455,150); -- Byne Bill
@@ -1678,9 +1678,9 @@ REPLACE INTO `mob_droplist` VALUES (2541,1,1,200,15113,67);  -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2541,1,1,200,15084,67);  -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (2541,1,1,200,15115,67);  -- DRG Hands
 REPLACE INTO `mob_droplist` VALUES (2541,1,1,200,15146,67);  -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,15025,333); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,11385,333); -- COR Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,15031,334); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,15025,333); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,11385,333); -- COR Feet
+REPLACE INTO `mob_droplist` VALUES (2541,1,2,100,15031,334); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (2541,1,3,100,16352,500); -- DNC Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2541,1,3,100,16362,500); -- SCH Legs  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2541,0,0,1000,1455,150); -- Byne Bill
@@ -1705,9 +1705,9 @@ REPLACE INTO `mob_droplist` VALUES (2546,1,1,200,15113,67);  -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2546,1,1,200,15084,67);  -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (2546,1,1,200,15115,67);  -- DRG Hands
 REPLACE INTO `mob_droplist` VALUES (2546,1,1,200,15146,67);  -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,15025,333); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,11385,333); -- COR Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,15031,334); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,15025,333); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,11385,333); -- COR Feet
+REPLACE INTO `mob_droplist` VALUES (2546,1,2,100,15031,334); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (2546,1,3,100,16352,500); -- DNC Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2546,1,3,100,16362,500); -- SCH Legs  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2546,0,0,1000,1449,150); -- Bronzepiece
@@ -1729,9 +1729,9 @@ REPLACE INTO `mob_droplist` VALUES (2556,1,1,200,15113,67);  -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2556,1,1,200,15084,67);  -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (2556,1,1,200,15115,67);  -- DRG Hands
 REPLACE INTO `mob_droplist` VALUES (2556,1,1,200,15146,67);  -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,15025,333); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,11385,333); -- COR Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,15031,334); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,15025,333); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,11385,333); -- COR Feet
+REPLACE INTO `mob_droplist` VALUES (2556,1,2,100,15031,334); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (2556,1,3,100,16352,500); -- DNC Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2556,1,3,100,16362,500); -- SCH Legs  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2556,0,0,1000,1455,150); -- Byne Bill
@@ -1753,9 +1753,9 @@ REPLACE INTO `mob_droplist` VALUES (2551,1,1,200,15113,67);  -- SAM Hands
 REPLACE INTO `mob_droplist` VALUES (2551,1,1,200,15084,67);  -- NIN Head
 REPLACE INTO `mob_droplist` VALUES (2551,1,1,200,15115,67);  -- DRG Hands
 REPLACE INTO `mob_droplist` VALUES (2551,1,1,200,15146,67);  -- SMN Feet
--- REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,15025,333); -- BLU Hands (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,11385,333); -- COR Feet  (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,15031,334); -- PUP Hands (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,15025,333); -- BLU Hands
+REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,11385,333); -- COR Feet
+REPLACE INTO `mob_droplist` VALUES (2551,1,2,100,15031,334); -- PUP Hands
 -- REPLACE INTO `mob_droplist` VALUES (2551,1,3,100,16352,500); -- DNC Feet  (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (2551,1,3,100,16362,500); -- SCH Legs  (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (2551,0,0,1000,1449,150); -- Whiteshell
@@ -1778,9 +1778,9 @@ REPLACE INTO `mob_droplist` VALUES (1793,1,1,200,2092,67);  -- SAM -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1793,1,1,200,2097,67);  -- NIN -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1793,1,1,200,2102,67);  -- DRG -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1793,1,1,200,2107,67);  -- SMN -1 Feet
--- REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2666,333); -- BLU -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2671,333); -- COR -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2676,334); -- PUP -1 Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2666,333); -- BLU -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2671,333); -- COR -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1793,1,2,100,2676,334); -- PUP -1 Feet
 -- REPLACE INTO `mob_droplist` VALUES (1793,1,4,100,2722,500); -- DNC -1 Feet (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1793,1,4,100,2727,500); -- SCH -1 Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1793,1,2,50,15872,200); -- WHM Waist
@@ -1788,7 +1788,7 @@ REPLACE INTO `mob_droplist` VALUES (1793,1,2,50,15478,200); -- MNK Back
 REPLACE INTO `mob_droplist` VALUES (1793,1,2,50,15878,200); -- DRG Waist
 REPLACE INTO `mob_droplist` VALUES (1793,1,2,50,15484,200); -- SMN Back
 REPLACE INTO `mob_droplist` VALUES (1793,1,2,50,15875,200); -- BST Waist
--- REPLACE INTO `mob_droplist` VALUES (1793,1,5,10,16245,1000); -- PUP Back  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1793,1,5,10,16245,1000); -- PUP Back
 -- REPLACE INTO `mob_droplist` VALUES (1793,1,6,10,15925,1000); -- SCH Waist (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1793,0,0,1000,1455,@COMMON); -- Byne Bill
 REPLACE INTO `mob_droplist` VALUES (1793,0,0,1000,1455,@UNCOMMON); -- Byne Bill
@@ -1809,9 +1809,9 @@ REPLACE INTO `mob_droplist` VALUES (1803,1,1,200,2092,67);  -- SAM -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1803,1,1,200,2097,67);  -- NIN -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1803,1,1,200,2102,67);  -- DRG -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1803,1,1,200,2107,67);  -- SMN -1 Feet
--- REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2666,333); -- BLU -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2671,333); -- COR -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2676,334); -- PUP -1 Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2666,333); -- BLU -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2671,333); -- COR -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1803,1,2,100,2676,334); -- PUP -1 Feet
 -- REPLACE INTO `mob_droplist` VALUES (1803,1,4,100,2722,500); -- DNC -1 Feet (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1803,1,4,100,2727,500); -- SCH -1 Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1803,1,2,50,15872,143); -- WHM Waist
@@ -1819,7 +1819,7 @@ REPLACE INTO `mob_droplist` VALUES (1803,1,2,50,15478,143); -- MNK Back
 REPLACE INTO `mob_droplist` VALUES (1803,1,2,50,15878,143); -- DRG Waist
 REPLACE INTO `mob_droplist` VALUES (1803,1,2,50,15484,143); -- SMN Back
 REPLACE INTO `mob_droplist` VALUES (1803,1,2,50,15875,143); -- BST Waist
--- REPLACE INTO `mob_droplist` VALUES (1803,1,5,10,16245,1000); -- PUP Back  (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1803,1,5,10,16245,1000); -- PUP Back
 -- REPLACE INTO `mob_droplist` VALUES (1803,1,6,10,15925,1000); -- SCH Waist (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1803,0,0,1000,1452,@COMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1803,0,0,1000,1452,@UNCOMMON); -- Bronzepiece
@@ -1840,9 +1840,9 @@ REPLACE INTO `mob_droplist` VALUES (1790,1,1,200,2092,67);  -- SAM -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1790,1,1,200,2097,67);  -- NIN -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1790,1,1,200,2102,67);  -- DRG -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1790,1,1,200,2107,67);  -- SMN -1 Feet
--- REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2666,333); -- BLU -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2671,333); -- COR -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2676,334); -- PUP -1 Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2666,333); -- BLU -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2671,333); -- COR -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1790,1,2,100,2676,334); -- PUP -1 Feet
 -- REPLACE INTO `mob_droplist` VALUES (1790,1,4,100,2722,500); -- DNC -1 Feet (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1790,1,4,100,2727,500); -- SCH -1 Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1790,1,2,50,15479,200); -- DRK Back
@@ -1850,7 +1850,7 @@ REPLACE INTO `mob_droplist` VALUES (1790,1,2,50,15480,200); -- THF Back
 REPLACE INTO `mob_droplist` VALUES (1790,1,2,50,15873,200); -- RDM Waist
 REPLACE INTO `mob_droplist` VALUES (1790,1,2,50,15879,200); -- SAM Waist
 REPLACE INTO `mob_droplist` VALUES (1790,1,2,50,15876,200); -- RNG Waist
--- REPLACE INTO `mob_droplist` VALUES (1790,1,5,10,15920,1000); -- COR Waist (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1790,1,5,10,15920,1000); -- COR Waist
 REPLACE INTO `mob_droplist` VALUES (1790,0,0,1000,1449,@COMMON); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (1790,0,0,1000,1449,@UNCOMMON); -- Whiteshell
 REPLACE INTO `mob_droplist` VALUES (1790,2,0,1000,1449,0); -- Whiteshell (Steal)
@@ -1870,9 +1870,9 @@ REPLACE INTO `mob_droplist` VALUES (1804,1,1,200,2092,67);  -- SAM -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1804,1,1,200,2097,67);  -- NIN -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1804,1,1,200,2102,67);  -- DRG -1 Feet
 REPLACE INTO `mob_droplist` VALUES (1804,1,1,200,2107,67);  -- SMN -1 Feet
--- REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2666,333); -- BLU -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2671,333); -- COR -1 Feet (Comment in for ToAU)
--- REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2676,334); -- PUP -1 Feet (Comment in for ToAU)
+REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2666,333); -- BLU -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2671,333); -- COR -1 Feet
+REPLACE INTO `mob_droplist` VALUES (1804,1,2,100,2676,334); -- PUP -1 Feet
 -- REPLACE INTO `mob_droplist` VALUES (1804,1,4,100,2722,500); -- DNC -1 Feet (Comment in for WoTG)
 -- REPLACE INTO `mob_droplist` VALUES (1804,1,4,100,2727,500); -- SCH -1 Feet (Comment in for WoTG)
 REPLACE INTO `mob_droplist` VALUES (1804,1,2,50,15479,200); -- DRK Back
@@ -1880,7 +1880,7 @@ REPLACE INTO `mob_droplist` VALUES (1804,1,2,50,15480,200); -- THF Back
 REPLACE INTO `mob_droplist` VALUES (1804,1,2,50,15873,200); -- RDM Waist
 REPLACE INTO `mob_droplist` VALUES (1804,1,2,50,15879,200); -- SAM Waist
 REPLACE INTO `mob_droplist` VALUES (1804,1,2,50,15876,200); -- RNG Waist
--- REPLACE INTO `mob_droplist` VALUES (1804,1,5,10,15920,1000); -- COR Waist
+REPLACE INTO `mob_droplist` VALUES (1804,1,5,10,15920,1000); -- COR Waist
 REPLACE INTO `mob_droplist` VALUES (1804,0,0,1000,1452,@COMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1804,0,0,1000,1452,@UNCOMMON); -- Bronzepiece
 REPLACE INTO `mob_droplist` VALUES (1804,2,0,1000,1452,0); -- Bronzepiece (Steal)
